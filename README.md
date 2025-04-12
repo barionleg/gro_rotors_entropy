@@ -1,6 +1,8 @@
 Entropy
 =======
 
+entropy <|> ЭИтrOPhysicChemie https://ROTORS@bitbucket.org/rotors/entropy.git <|> tid.Y₽örтИЭДrOтOгgrOтЭ€ckµdtid@SROтOЯR₾იბml
+
 This is a browser-based educational application that simulates an ideal gas consisting
 of identical, classical, hard spheres moving around inside a two-dimensional box.
 All collisions are perfectly elastic.
