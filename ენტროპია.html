@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!--
+(c) 2015 ბენჯამინ კროუელი, GPL v3
+-->
+<head>
+<meta charset="utf-8">
+<title>ენტროპია დემონსტრირებულია აირის თავისუფალი გაფართოებით</title>
+<link rel="stylesheet" type="text/css" href="./entropy.css" media="all" >
+</head>
+
+<body>
+
+<p id="message"></p> <!-- შინაარსი დაყენებულია display_message()-ის მიერ -->
+<p>
+<table>
+<tr>
+<td>
+<canvas id='animation_canvas' ></canvas>
+</td>
+<td>
+<button id='pause'>პაუზა</button><br>
+<button id='reverse'>სიჩქარეების შეცვლა</button><br>
+ნაწილაკები: <input type="text" id="nparticles" size="7"><br>
+<button id='initialize'>ინიციალიზაცია</button><br>
+</td>
+</tr>
+<tr>
+<td>
+<canvas id='graph_canvas' ></canvas>
+</td>
+<td>
+<h1>სიმულაციის ვარიაციები</h1>
+<p>ეს უფრო დეტალურად არის ახსნილი <a href="https://github.com/barionleg/entropy/blob/master/README.md">დოკუმენტაციაში</a>.</p>
+<ul>
+<li> <a href="?wait">დანაყოფის მოხსნა</a>
+<li> <a href="?flock,wait">თავდაპირველად თანაბარი იმპულსები</a>
+<li> <a href="?gy=2,flock,wait">...გრავიტაციით</a>
+<li> <a href="?gx=3,gy=2,flock,wait">...დახრილი გრავიტაციით</a>
+<li> <a href="?island,flock,wait">...კუნძულით</a>
+<li> <a href="?temps,n=300,wait">ორი ტემპერატურა</a>
+<li> <a href="?mark,wait">ერთი ნაწილაკი მონიშნულია</a>
+</ul>
+</td>
+
+</tr>
+</table>
+</p>
+<p>
+</p>
+<p><a href="https://github.com/barionleg/entropy">დოკუმენტაცია და საწყისი კოდი</a></p>
+
+<script src="entropy.js"></script>
+
+</body>
+
+</html>
