@@ -1,3 +1,10 @@
+Demo:
+
+https://barionleg.github.io/gro_rotors_entropy/entropy.html
+
+
+
+
 Entropy
 =======
 
