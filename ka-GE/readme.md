@@ -30,7 +30,7 @@ https://ROTORS@bitbucket.org/rotors/entropy.git
 
 ეს არის ბრაუზერზე დაფუძნებული საგანმანათლებლო აპლიკაცია, რომელიც ახდენს იდეალურ აირის სიმულირებას, რომელიც შედგება იდენტური, კლასიკური, მყარი 
 სფეროებისგან, რომლებიც მოძრაობენ ორგანზომილებიან ყუთში. ყველა შეჯახება იდეალურად დრეკადია. ამ ტიპის ფიზიკური მოდელის სპეციფიკური 
-მათემატიკური თვისებების შესახებ მეტი ინფორმაციის მისაღებად, ძიების საკვანძო სიტყვაა „[დინამიური ბილიარდი](https://en.wikipedia.org/wiki/Dynamical_billiards)“. 
+მათემატიკური თვისებების შესახებ მეტი ინფორმაციის მისაღებად, ძიების საკვანძო სიტყვაა „[დინამიური ბილიარდი](https://en.wikipedia.org/wiki/Dynamical_billiards)“ ან "[სინაï Billiard](https://fr.wikipedia.org/wiki/Billard_de_Sinaï)"
 
 აპლიკაციის გაშვება შეგიძლიათ შემდეგ URL-ზე გადასვლით: https://barionleg.github.io/gro_rotors_entropy/entropy.html ქართული ალტერნატივა https://barionleg.github.io/gro_rotors_entropy/ენტროპია.html 
 
