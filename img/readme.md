@@ -1,6 +1,7 @@
 https://barionleg.github.io/gro_rotors_entropy/ენტროპია.html?temps,n=300,wait,mark
 
 
+<img width="704" height="440" alt="image" src="https://github.com/barionleg/gro_rotors_entropy/blob/master/img/9_ka-GE_ორი_ტემპერატურა_მონიშნული_Entropy_TwoTemperaturesMarked_Inspelning%202026-11-09%20164317.gif" />
 
 
 ## წამიკითხე & თუ იხილე შეცდომა ან შეასწორე ან მომმართე და ამ უკანასკნელს ძალზედ ადვილად იზავთ პარიზში პირადად რა თქმა უნდა ნორჩი ნიწლერელების (Нитлеровцы) ბლოკადის მიუხედავად 
