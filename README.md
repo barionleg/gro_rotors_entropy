@@ -22,7 +22,7 @@ This is a browser-based educational application that simulates an ideal gas cons
 of identical, classical, hard spheres moving around inside a two-dimensional box.
 All collisions are perfectly elastic.
 To learn more about the specific mathematical properties of this sort of
-physical model, the keyword to search on is "[dynamical billiards](https://en.wikipedia.org/wiki/Dynamical_billiards)." or "[Sinai Billiard](https://fr.wikipedia.org/wiki/Billard_de_Sinaï)"
+physical model, the keyword to search on is "[dynamical billiards](https://en.wikipedia.org/wiki/Dynamical_billiards)." or "[Sinaï Billiard](https://fr.wikipedia.org/wiki/Billard_de_Sinaï)"
 You can run the app by going to the following URL:
 [http://www.lightandmatter.com/entropy](http://www.lightandmatter.com/entropy)
 
