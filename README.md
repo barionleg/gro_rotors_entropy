@@ -1,9 +1,10 @@
 Demo:
 
-https://barionleg.github.io/gro_rotors_entropy/entropy.html
+https://barionleg.github.io/gro_rotors_entropy/entropy.html?temps,n=300,wait,mark
 
 
-<img width="704" height="440" alt="image" src="https://github.com/user-attachments/assets/b97fbfa0-5673-4be6-b72c-21cd12eda73c" />
+<img width="704" height="440" alt="image" src="https://github.com/barionleg/gro_rotors_entropy/blob/master/img/9_en-EN_Entropy_TwoTemperaturesMarked_Inspelning%202026-11-09%20165707.gif" />
+
 
 
 [ka-Ge](https://github.com/barionleg/gro_rotors_entropy/tree/master/ka-GE) (რატომ კა? = картулад; და რატომ GE? = Georgien on Translit): 
@@ -153,3 +154,11 @@ The balls rebound from the right side of the box a little before they should;
 an empty strip exists with a width equal to the diameter of the balls.
 
 The labels on the axes of the graph don't show up.
+
+___
+___
+
+
+https://barionleg.github.io/gro_rotors_entropy/entropy.html 
+
+<img width="704" height="440" alt="image" src="https://github.com/user-attachments/assets/b97fbfa0-5673-4be6-b72c-21cd12eda73c" />
