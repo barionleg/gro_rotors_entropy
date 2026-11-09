@@ -3,7 +3,13 @@ Demo:
 https://barionleg.github.io/gro_rotors_entropy/entropy.html
 
 
+Demo ka-Ge (რატომ კა? = картулад; და რატომ GE? = Georgien on Translit): 
 
+https://barionleg.github.io/gro_rotors_entropy/ენტროპია.html
+
+Demo ru-Ru  (uR.) ირ წერტილი არ დაგავიწყდეთ, რომ თეთრი ვეფხის ბუნებრივი გარემო ჭაღარა სიბæრიაა ღრუბლირი, იგივე  ღРублиЯ,  ღРублиR, იდეალურად ღРублиЯR.
+
+მაშსდამე:  Physic Chemie Ski  = Py_C_Ckuü (written on Translit) = Русский написанный уже на энад диалекты ФизикА & ХимиЯ 
 
 Entropy
 =======
