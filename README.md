@@ -14,7 +14,7 @@ https://barionleg.github.io/gro_rotors_entropy/ენტროპია.html
 
 [ru-Ru](https://github.com/barionleg/gro_rotors_entropy/blob/master/ru-RUS/readme.md)  (uR.) ირ წერტილი არ დაგავიწყდეთ, რომ თეთრი ვეფხის ბუნებრივი გარემო ჭაღარა სიბæრიაა ღრუბლირი, იგივე  ღРублиЯ,  ღРублиR, იდეალურად ღРублиЯR.
 
-Demo ru-RUS:  
+[Demo ru-RUS](https://barionleg.github.io/gro_rotors_entropy/энтропия.html):  https://barionleg.github.io/gro_rotors_entropy/энтропия.html
 
 მაშსდამე:  Physic Chemie Ski  = Py_C_Ckuü (written on Translit) = Русский написанный уже на энад диалекты ФизикА & ХимиЯ 
 
